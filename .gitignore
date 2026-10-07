@@ -1,2 +1,3 @@
 # Packs are published as GitHub release assets (git rejects files over 100 MB), never committed.
 *.zip
+*.exe
